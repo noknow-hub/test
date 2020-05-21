@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 helloworld1
-=======
-helloworld1
->>>>>>> 06e54b0ffe3e4c8f21db0aaaf4210875619d985f
+helloworld2
